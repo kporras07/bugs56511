@@ -2749,12 +2749,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pantheon-systems/quicksilver-pushback.git",
-                "reference": "e965012e3d56003a3bf35b94b176dd4f25dd9be4"
+                "reference": "eba4ea47aa4d66532f6f8fd7599bbf60617dae0b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pantheon-systems/quicksilver-pushback/zipball/e965012e3d56003a3bf35b94b176dd4f25dd9be4",
-                "reference": "e965012e3d56003a3bf35b94b176dd4f25dd9be4",
+                "url": "https://api.github.com/repos/pantheon-systems/quicksilver-pushback/zipball/eba4ea47aa4d66532f6f8fd7599bbf60617dae0b",
+                "reference": "eba4ea47aa4d66532f6f8fd7599bbf60617dae0b",
                 "shasum": ""
             },
             "require": {
@@ -2770,7 +2770,7 @@
                 "issues": "https://github.com/pantheon-systems/quicksilver-pushback/issues",
                 "source": "https://github.com/pantheon-systems/quicksilver-pushback/tree/fix-gitignore"
             },
-            "time": "2022-12-19T15:53:00+00:00"
+            "time": "2022-12-19T16:06:00+00:00"
         },
         {
             "name": "pantheon-upstreams/upstream-configuration",
