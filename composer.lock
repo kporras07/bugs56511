@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "19ec7d555f4d034259fd474c498fdba0",
+    "content-hash": "778d8ee8a2a69588745f2731173614a8",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2745,16 +2745,16 @@
         },
         {
             "name": "pantheon-systems/quicksilver-pushback",
-            "version": "2.1.0",
+            "version": "dev-fix-gitignore",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pantheon-systems/quicksilver-pushback.git",
-                "reference": "5ac2862526ed470a774c2241107a90db424a5753"
+                "reference": "e965012e3d56003a3bf35b94b176dd4f25dd9be4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pantheon-systems/quicksilver-pushback/zipball/5ac2862526ed470a774c2241107a90db424a5753",
-                "reference": "5ac2862526ed470a774c2241107a90db424a5753",
+                "url": "https://api.github.com/repos/pantheon-systems/quicksilver-pushback/zipball/e965012e3d56003a3bf35b94b176dd4f25dd9be4",
+                "reference": "e965012e3d56003a3bf35b94b176dd4f25dd9be4",
                 "shasum": ""
             },
             "require": {
@@ -2768,9 +2768,9 @@
             "description": "Push commits made via the Pantheon dashboard back to original GitHub repository.",
             "support": {
                 "issues": "https://github.com/pantheon-systems/quicksilver-pushback/issues",
-                "source": "https://github.com/pantheon-systems/quicksilver-pushback/tree/2.1.0"
+                "source": "https://github.com/pantheon-systems/quicksilver-pushback/tree/fix-gitignore"
             },
-            "time": "2022-06-10T21:12:25+00:00"
+            "time": "2022-12-19T15:53:00+00:00"
         },
         {
             "name": "pantheon-upstreams/upstream-configuration",
@@ -11535,7 +11535,9 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "pantheon-systems/quicksilver-pushback": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": [],
